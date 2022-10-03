@@ -10,8 +10,8 @@ To find longest and second longest words constructed by concatenating shorter wo
 ## Output
 
 ```
-ratcatdogcat catsdogcats time taken to process the input file(in milliseconds)
-ethylenediaminetetraacetates ethylenediaminetetraacetate time taken to process the input file(in milliseconds)
+ratcatdogcat catsdogcats time taken to process the input file(45 milliseconds)
+ethylenediaminetetraacetates ethylenediaminetetraacetate time taken to process the input file(736 milliseconds)
 ```
 
 ## Approach
